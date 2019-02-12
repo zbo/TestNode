@@ -1,0 +1,26 @@
+{
+  "name": "TestNodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fillzeros.js",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "request": "^2.88.0",
+    "string-format": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbo/TestNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbo/TestNode/issues"
+  },
+  "homepage": "https://github.com/zbo/TestNode#readme"
+}
